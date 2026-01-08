@@ -1,5 +1,4 @@
 # Deployment-of-application-using-docker
-# Deployment-of-web-application-using-Docker
 
 ## Launch EC2 Instance (ubuntu)
 -- Go to root directory
